@@ -1,3 +1,3 @@
-<header> <title>页面标题demo1</title>  </header>
+<header>页面标题demo1</header>
 
 ### 内容1
